@@ -81,7 +81,7 @@ export default defineConfig({
       {
         text: '备战春秋',
         items: [
-          { text: '面试', link: '/sop/more' },
+          { text: '面试', link: '/' },
           { text: '八股文', link: '/' },
         ]
       },

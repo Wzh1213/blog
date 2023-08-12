@@ -2,7 +2,7 @@
 description: 娱乐类
 sidebar: false
 ---
-# 目录
+# 娱乐类
 
 ## 娱乐类网站
 - 娱乐百科

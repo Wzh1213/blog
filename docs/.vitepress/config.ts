@@ -82,14 +82,14 @@ export default defineConfig({
         text: '备战春秋',
         items: [
           { text: '面试', link: '/' },
-          { text: '八股文', link: '/' },
+          { text: '八股文', link: '/interview/eightLegged' },
         ]
       },
       {
         text: '算法&数据结构',
         items: [ 
-          { text: 'C/C++', link: '/' },
-          { text: 'JavaScript', link: '/' },
+          { text: 'C/C++', link: '/algorithmic/c++' },
+          { text: 'JavaScript', link: '/algorithmic/js' },
         ]
       },
       {

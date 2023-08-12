@@ -2,15 +2,15 @@
 description: 开发类
 sidebar: false
 ---
-# 目录
+# 开发类
 
 ## 开发类文章
 
-* [sugarat博客 | 快速开始](./quickStart.md) - 本博客创建指南
-* [sugarat博客 | Markdown](./mermaid.md) - 通过解析类 Markdown 的文本语法来实现图表的创建和动态修改。
-* [sugarat博客 | 自定义方式](./style.md) - 介绍一下自定义主题的部分样式
-* [sugarat博客 | 创建方式](./quickStart.md) - 本博客创建指南
-
+* [快速开始 | sugarat博客](./quickStart.md) - 本博客创建指南
+* [Markdown | sugarat博客](./mermaid.md) - 通过解析类 Markdown 的文本语法来实现图表的创建和动态修改。
+* [自定义方式 | sugarat博客](./style.md) - 介绍一下自定义主题的部分样式
+* [创建方式 | sugarat博客](./quickStart.md) - 本博客创建指南
+* [搭建个人图床 | 服务器](./tuchuang.md) - 七牛云+PicGo+Typora
 
 ## 开发类网站
 - UI组件库

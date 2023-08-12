@@ -1,6 +1,5 @@
 ---
-author: 小满zs
-description: 来源于小满zs
+description: 大学期间的项目
 title: 项目介绍
 readingTime: true
 tag:
@@ -11,5 +10,6 @@ recommend: 999
 # 项目介绍
 
 ## 目录 
-- [基于智能识别车辆管理系统](https://github.com/Wzh1213/Terminal)
+<!-- todo -->
+- [基于智能识别车辆管理系统]()
 - [伪Linux命令|个人终端系统](https://github.com/Wzh1213/Terminal)

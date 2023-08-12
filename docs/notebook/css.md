@@ -1,5 +1,5 @@
 ---
-description: 来源于小满zs
+description: 收录CSS相关文章
 title: CSS
 readingTime: true
 tag:
